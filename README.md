@@ -16,7 +16,7 @@ This repository contains all the tasks completed during my internship at **Brain
 - 🧠 Skills Used: [Excel, PowerBI: PowerQuery - DAX - Data Modeling]
    
 - 🔗 LinkedIn Post:
-  I shared my task publicly on LinkedIn as part of the internship visibility process: 👉 [Click to view LinkedIn Post]()
+  I shared my task publicly on LinkedIn as part of the internship visibility process: 👉 [Click to view LinkedIn Post](https://www.linkedin.com/posts/tawfeq_brainwavematrixsolutions-powerbi-dataanalysis-activity-7334930476207386626-s5an?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHO4xwBDBSoaI43TDDGSYBNtFXayyvAevo)
 
 ## 📅 Timeline
 - Task 1 Deadline: [Submission in 7 Days from: 30-5-2025 to: 4-6-2025 ]
