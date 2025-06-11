@@ -22,4 +22,19 @@ This repository contains all the tasks completed during my internship at **Brain
 - Task 1 Deadline: [Submission in 7 Days from: 30-5-2025 to: 4-6-2025 ]
   - Added solution and report for Task 1
 
-- Task 2: Will be added soon
+## 📁 Task 2 – [Social Media Sentiment Analysis]
+- 🔗 Task File: []
+- 📸 Screenshot / Video: []
+- 📝 Description:
+  - Brief description of what was done
+
+    
+- 🧠 Skills Used: []
+   
+- 🔗 LinkedIn Post:
+  I shared my task publicly on LinkedIn as part of the internship visibility process: 👉 [Click to view LinkedIn Post]()
+
+## 📅 Timeline
+- Task 2 Deadline: [Report submission in 15-20 days. Approximately until June 26 or July 1 ]
+
+- Task 3: Will be added soon
