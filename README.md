@@ -23,13 +23,15 @@ This repository contains all the tasks completed during my internship at **Brain
   - Added solution and report for Task 1
 
 ## 📁 Task 2 – [Social Media Sentiment Analysis]
-- 🔗 Task File: []
+- 🔗 Task File: [https://drive.google.com/drive/folders/1ncTvJAGEp4g5IlnO8zVTQ6vLkZujHMT4?usp=sharing]
 - 📸 Screenshot / Video: []
 - 📝 Description:
-  - Brief description of what was done
+- Brief description of what was done
+   Explore the power of NLP in understanding and interpreting human sentiments on social media platforms. Whether you're a data enthusiast or a coding pro, this hands-on       project provides valuable insights into the world of machine learning applications.
+
 
     
-- 🧠 Skills Used: []
+- 🧠 Skills Used: [Python, Natural Language Processing (NLP), Streamlit, Scikit-learn, Text Preprocessing, TF-IDF Vectorization, Logistic Regression, Data Visualization (Matplotlib)]
    
 - 🔗 LinkedIn Post:
   I shared my task publicly on LinkedIn as part of the internship visibility process: 👉 [Click to view LinkedIn Post]()
