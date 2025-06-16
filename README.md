@@ -23,6 +23,7 @@ This repository contains all the tasks completed during my internship at **Brain
   - Added solution and report for Task 1
 
 ## 📁 Task 2 – [Social Media Sentiment Analysis]
+- 🧠 Live app: [https://sentiment-analysis-project-sd6n2nu5mq7o43uivasn2z.streamlit.app/]
 - 🔗 Task File: [https://drive.google.com/drive/folders/1ncTvJAGEp4g5IlnO8zVTQ6vLkZujHMT4?usp=sharing]
 - 📸 Screenshot / Video: [https://drive.google.com/file/d/1IPEwZTKM0i2Ih6guTItzYurivVPPby3U/view?usp=drive_link]
 - 📝 Description:
