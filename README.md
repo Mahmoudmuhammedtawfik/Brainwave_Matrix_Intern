@@ -35,7 +35,7 @@ This repository contains all the tasks completed during my internship at **Brain
 - 🧠 Skills Used: [Python, Natural Language Processing (NLP), Streamlit, Scikit-learn, Text Preprocessing, TF-IDF Vectorization, Logistic Regression, Data Visualization (Matplotlib)]
    
 - 🔗 LinkedIn Post:
-  I shared my task publicly on LinkedIn as part of the internship visibility process: 👉 [Click to view LinkedIn Post]()
+  I shared my task publicly on LinkedIn as part of the internship visibility process: 👉 [Click to view LinkedIn Post](https://www.linkedin.com/posts/tawfeq_sentiment-task-brainwavematrixsolutions-activity-7340619238677630977-nCyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHO4xwBDBSoaI43TDDGSYBNtFXayyvAevo)
 
 ## 📅 Timeline
 - Task 2 Deadline: [Report submission in 15-20 days. Approximately until June 26 or July 1 ]
